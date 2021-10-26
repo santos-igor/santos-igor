@@ -136,6 +136,9 @@ p
 /* img */
 /* { border: 0;} */
 
+/* h2
+{ font-size: 165%;} */
+
 h2
 { font-size: 165%;}
 
@@ -214,7 +217,8 @@ header
    
 #welcome H3
 { /*font: normal 300% Arial, sans-serif;*/
-  font: normal 300% classic, monospace;
+ /* font: normal 300% classic, monospace;*/
+ font: normal 210% classic, monospace;
  letter-spacing: -3px;
   text-shadow: 1px 1px #000;
   color: #00ff00;/*#ffa500;*/
@@ -308,7 +312,7 @@ header
   }
   
 .content_container
-{ width: 47%;
+{ width: 80%;
   padding: 5px;
   margin: 10px 10px 20px 0;
   float: left;
